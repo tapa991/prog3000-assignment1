@@ -18,6 +18,21 @@ namespace PatrickT_Assignment1.Controllers
             return View();
         }
 
+        public IActionResult EquipmentListings()
+        {
+            return View();
+        }
+
+        public IActionResult AvailableEquipment()
+        {
+            return View();
+        }
+
+        public IActionResult RequestForm()
+        {
+            return View();
+        }
+
         public IActionResult Privacy()
         {
             return View();
